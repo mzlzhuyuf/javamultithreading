@@ -33,6 +33,7 @@ public class ThreadJoin {
 
     /**
      * 构造一个简单的线程，每个线程只是简单的循环输出
+     *
      * @param seq
      * @return
      */

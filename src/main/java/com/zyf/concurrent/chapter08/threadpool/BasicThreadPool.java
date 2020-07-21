@@ -53,10 +53,7 @@ public class BasicThreadPool extends Thread implements ThreadPool {
     }
 
 
-
     //构造时需要传递的参数：初始的线程数量，最大的线程数量，核心线程数量，任务队列的最大数量
-
-
 
 
     @Override
